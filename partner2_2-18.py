@@ -35,9 +35,10 @@ name= input("What is your name?")
 # 12. Print a greeting using their name
 print("Hello,", name)
 # 13. Ask the user for a number
-
-
+print("pick a number for me")
+number=input
 # 14. Print the number they typed
-
+print(number,"Okay.")
 
 # 15. Print a goodbye message
+print("Goodbye, see you soon.")
